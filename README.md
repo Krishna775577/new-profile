@@ -1,4 +1,4 @@
-# SUSHMITA — THE SERIES
+# KRISHNA — THE SERIES
 
 A cinematic, streaming-inspired portfolio for **Krishna Bajaj**: Billing Executive — Sales & Distribution.
 Every section is an episode, every project is an Original, and the whole site plays like a series.
